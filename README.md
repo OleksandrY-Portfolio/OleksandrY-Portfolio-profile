@@ -34,7 +34,7 @@
 ## 🛠️ Навички
 
 **Мови та технології:**  
-C++, C#, .NET, ASP.NET Core, RESTful API, EF Core, LINQ, MS SQL, HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, React, WinForms, WPF  
+C++, C#, Java, .NET, ASP.NET Core, RESTful API, EF Core, LINQ, MS SQL, HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, React, WinForms, WPF  
 
 **Інструменти та сервіси:**  
 Visual Studio, VS Code, PhpStorm, MS SQL Management Studio, Git, GitHub, Jira, Azure  
@@ -96,7 +96,7 @@ This portfolio showcases my key projects, demonstrating my knowledge of **.NET, 
 ## 🛠️ Skills
 
 **Programming Languages & Technologies:**  
-C++, C#, .NET, ASP.NET Core, RESTful API, EF Core, LINQ, MS SQL, HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, React, WinForms, WPF  
+C++, C#, Java, .NET, ASP.NET Core, RESTful API, EF Core, LINQ, MS SQL, HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, React, WinForms, WPF  
 
 **Tools & Services:**  
 Visual Studio, VS Code, PhpStorm, MS SQL Management Studio, Git, GitHub, Jira, Azure  
