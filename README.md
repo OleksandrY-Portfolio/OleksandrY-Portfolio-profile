@@ -121,5 +121,3 @@ English (A1), German (B1), Ukrainian, Russian
 
 ---
 
-✨ Thank you for viewing my portfolio!
-
