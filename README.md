@@ -54,7 +54,7 @@ Visual Studio, VS Code, PhpStorm, MS SQL Management Studio, Git, GitHub, Jira, A
 
 | Проєкт | Опис | Технології | Посилання |
 |:--|:--|:--|:--|
-| [ProjectOdesa](https://github.com/OleksandrY-Portfolio/ProjectOdesa-Demo) 🏙️ Інформаційний портал "Одеса для дітей" | Онлайн-портал для інформації про навчання, медицину та дозвілля дітей в Одесі | ASP.NET Core, C#, Azure Cosmos DB
+| [ProjectOdesa](https://github.com/OleksandrY-Portfolio/ProjectOdesa-Demo) 🏙️ Інформаційний портал "Одеса для дітей" | Інформаційний портал міста, орієнтований на дітей, що надає дані про навчання, медицину, дозвілля та розвиток у Одесі. | ASP.NET Core, C#, Azure Cosmos DB | [GitHub](https://github.com/OleksandrY-Portfolio/ProjectOdesa-Demo) |Cosmos DB
 | [Guidance](https://github.com/AlexLiberty/GuidanceServer.git) | Навчальний проєкт: клон сайту для бронювання житла з новим дизайном. Розробка серверної частини, API, управління базою даних, оптимізація продуктивності та обробка помилок. | C#, ASP.NET Core, MS SQL | [GitHub](https://github.com/AlexLiberty/GuidanceServer.git) |
 
 ========================================================================
@@ -116,7 +116,7 @@ English (A1), German (B1), Ukrainian
 
 | Project | Description | Technologies | Link |
 |:--|:--|:--|:--|
-| [ProjectOdesa](https://github.com/OleksandrY-Portfolio/ProjectOdesa-Demo) 🏙️ Information Portal "Odessa for Children" | Online portal providing information about education, healthcare, and leisure for children in Odessa | ASP.NET Core, C#, Azure Cosmos DB | [GitHub](https://github.com/OleksandrY-Portfolio/ProjectOdesa-Demo) |
+| [ProjectOdesa](https://github.com/OleksandrY-Portfolio/ProjectOdesa-Demo) 🏙️ Information Portal "Odessa for Children" | City information portal focused on children, providing information about education, healthcare, leisure, and development in Odessa. | ASP.NET Core, C#, Azure Cosmos DB | [GitHub](https://github.com/OleksandrY-Portfolio/ProjectOdesa-Demo) |
 | [Guidance](https://github.com/AlexLiberty/GuidanceServer.git) | Educational project: a redesigned clone of an accommodation booking website. Developed backend functionality, API, database management, performance optimization, and error handling. | C#, ASP.NET Core, MS SQL | [GitHub](https://github.com/AlexLiberty/GuidanceServer.git) |
 
 ---
