@@ -17,17 +17,17 @@
 
 ## 🎓 Освіта
 
-- **IT STEP Academy** – Software Development Department (2022 – 05/2025)  
-- **Christian Humanitarian and Economic Open University** – Department of Administrative and Commercial Law (2002 – 2007)  
+- **IT STEP Academy** – Відділ розробки програмного забезпечення (2022 – 05/2025)  
+- **Christian Humanitarian and Economic Open University** – Кафедра адміністративного та комерційного права (2002 – 2007)  
 
 ---
 
 ## 💼 Професійний досвід
 
 - **Veles Agro Ltd.**  
-  - Sales Director (2019 – 2023)  
-  - Regional Director (2018 – 2019)  
-  - Brand Manager (2015 – 2018)  
+  - Директор з продажу (2019 – 2023)  
+  - Регіональний директор (2018 – 2019)  
+  - Бренд иенеджер (2015 – 2018)  
 
 ---
 
