@@ -40,7 +40,7 @@ C++, C#, .NET, ASP.NET Core, RESTful API, EF Core, LINQ, MS SQL, HTML, CSS, Boot
 Visual Studio, VS Code, PhpStorm, MS SQL Management Studio, Git, GitHub, Jira, Azure  
 
 **Мови:**  
-Англійська (A1), Німецька (B1), Українська, Російська  
+Англійська (A1), Німецька (B1), Українська
 
 ---
 
@@ -102,7 +102,7 @@ C++, C#, .NET, ASP.NET Core, RESTful API, EF Core, LINQ, MS SQL, HTML, CSS, Boot
 Visual Studio, VS Code, PhpStorm, MS SQL Management Studio, Git, GitHub, Jira, Azure  
 
 **Languages:**  
-English (A1), German (B1), Ukrainian, Russian  
+English (A1), German (B1), Ukrainian
 
 ---
 
