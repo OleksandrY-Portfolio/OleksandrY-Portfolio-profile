@@ -55,7 +55,7 @@ Visual Studio, VS Code, PhpStorm, MS SQL Management Studio, Git, GitHub, Jira, A
 | Проєкт | Опис | Технології | Посилання |
 |:--|:--|:--|:--|
 | [ProjectOdesa](https://github.com/OleksandrY-Portfolio/ProjectOdesa-Demo) 🏙️ Інформаційний портал "Одеса для дітей" | Онлайн-портал для інформації про навчання, медицину та дозвілля дітей в Одесі | ASP.NET Core, C#, Azure Cosmos DB
-| [Booking](https://github.com/AlexLiberty/GuidanceServer.git) | Серверна частина сервісу бронювання житла. Розробка API, управління базою даних, оптимізація продуктивності та обробка помилок. | C#, ASP.NET Core, MS SQL
+| [Guidance](https://github.com/AlexLiberty/GuidanceServer.git) | Educational project: a redesigned clone of an accommodation booking website. Developed backend functionality, API, database management, performance optimization, and error handling. | C#, ASP.NET Core, MS SQL | [GitHub](https://github.com/AlexLiberty/GuidanceServer.git) |
 
 ========================================================================
 
