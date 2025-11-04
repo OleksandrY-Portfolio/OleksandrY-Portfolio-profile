@@ -9,7 +9,7 @@
 
 | Проєкт | Опис | Технології |
 |:--|:--|:--|
-| [ProjectOdesa](https://github.com/OleksandrY-Portfolio/ProjectOdesa-Demo) # 🏙️ Інформаційний портал "Одеса для дітей" | ASP.NET Core, C#, Azure Cosmos DB | 
+| [ProjectOdesa](https://github.com/OleksandrY-Portfolio/ProjectOdesa-Demo) 🏙️ Інформаційний портал "Одеса для дітей" | ASP.NET Core, C#, Azure Cosmos DB | 
 
 ---
 
