@@ -1,4 +1,4 @@
-# 👋 Привіт, я Oleksandr Yelienok
+# 👋 Привіт, я Олександр Єлєнок
 
 Я .NET-розробник з практичними навичками у бекенді, веб- та десктоп-розробці.
 Нещодавно завершив навчання у IT STEP Academy за спеціальністю "Розробка програмного забезпечення".
@@ -57,4 +57,69 @@ Visual Studio, VS Code, PhpStorm, MS SQL Management Studio, Git, GitHub, Jira, A
 | [ProjectOdesa](https://github.com/OleksandrY-Portfolio/ProjectOdesa-Demo) 🏙️ Інформаційний портал "Одеса для дітей" | Онлайн-портал для інформації про навчання, медицину та дозвілля дітей в Одесі | ASP.NET Core, C#, Azure Cosmos DB
 | [Booking](https://github.com/AlexLiberty/GuidanceServer.git) | Серверна частина сервісу бронювання житла. Розробка API, управління базою даних, оптимізація продуктивності та обробка помилок. | C#, ASP.NET Core, MS SQL
 
+========================================================================
+
+
+# 👋 Hi, I'm Oleksandr Yelienok
+
+I am a .NET developer with practical experience in backend, web, and desktop development.  
+Recently, I completed my studies at **IT STEP Academy** in Software Development.  
+This portfolio showcases my key projects, demonstrating my knowledge of **.NET, web technologies, databases, and desktop applications**.
+
 ---
+
+## 📇 Contact
+
+- 📧 aelenok@gmail.com  
+- 📞 +49 160 3252935  
+- 📍 Bremen, Germany  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/oleksandr-yelienok-748347397)  
+
+---
+
+## 🎓 Education
+
+- **IT STEP Academy** – Software Development Department (2022 – 05/2025)  
+- **Christian Humanitarian and Economic Open University** – Department of Administrative and Commercial Law (2002 – 2007)  
+
+---
+
+## 💼 Professional Experience
+
+- **Veles Agro Ltd.**  
+  - Sales Director (2019 – 2023)  
+  - Regional Director (2018 – 2019)  
+  - Brand Manager (2015 – 2018)  
+
+---
+
+## 🛠️ Skills
+
+**Programming Languages & Technologies:**  
+C++, C#, .NET, ASP.NET Core, RESTful API, EF Core, LINQ, MS SQL, HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, React, WinForms, WPF  
+
+**Tools & Services:**  
+Visual Studio, VS Code, PhpStorm, MS SQL Management Studio, Git, GitHub, Jira, Azure  
+
+**Languages:**  
+English (A1), German (B1), Ukrainian, Russian  
+
+---
+
+## 🏆 Certifications
+
+- **CISCO** – IT Essentials: PC Hardware and Software  
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Technologies | Link |
+|:--|:--|:--|:--|
+| [ProjectOdesa](https://github.com/OleksandrY-Portfolio/ProjectOdesa-Demo) 🏙️ Information Portal "Odessa for Children" | Online portal providing information about education, healthcare, and leisure for children in Odessa | ASP.NET Core, C#, Azure Cosmos DB | [GitHub](https://github.com/OleksandrY-Portfolio/ProjectOdesa-Demo) |
+| [Booking](https://github.com/AlexLiberty/GuidanceServer.git) | Backend part of an accommodation booking service. Development of API, database management, performance optimization, and error handling | C#, ASP.NET Core, MS SQL | [GitHub](https://github.com/AlexLiberty/GuidanceServer.git) |
+
+---
+
+✨ Thank you for viewing my portfolio!
+
