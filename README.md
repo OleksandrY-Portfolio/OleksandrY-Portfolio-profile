@@ -56,7 +56,7 @@ English (A1), German (B1), Ukrainian
 |:--|:--|:--|:--|
 | [ProjectOdesa](https://github.com/OleksandrY-Portfolio/ProjectOdesa-Demo) 🏙️ Information Portal "Odessa for Children" | City information portal focused on children, providing information about education, healthcare, leisure, and development in Odessa. | ASP.NET Core, C#, Azure Cosmos DB | [GitHub](https://github.com/OleksandrY-Portfolio/ProjectOdesa-Demo) |
 | [Guidance](https://github.com/OleksandrY-Portfolio/Guidance) | Educational project: a redesigned clone of an accommodation booking website. Developed backend functionality, API, database management, performance optimization, and error handling. | C#, ASP.NET Core, MS SQL | [GitHub](https://github.com/AlexLiberty/GuidanceServer.git) |
-| [L.I.A. – Personal Voice Assistant for Star Citizen](https://github.com/OleksandrY-Portfolio/-L.I.A.-Personal-Voice-Assistant-in-the-Universe-of-Star-Citizen) 🎮 Ukrainian-speaking voice assistant for Star Citizen. Controls spaceships, ground vehicles, FPS support, and immersive voiceovers. | C#, Vosk, VoiceAttack, Audio Processing | [GitHub](https://github.com/OleksandrY-Portfolio/-L.I.A.-Personal-Voice-Assistant-in-the-Universe-of-Star-Citizen) |
+| [L.I.A. – Personal Voice Assistant for Star Citizen](https://github.com/OleksandrY-Portfolio/-L.I.A.-Personal-Voice-Assistant-in-the-Universe-of-Star-Citizen) |🎮 Ukrainian-speaking voice assistant for Star Citizen. Controls spaceships, ground vehicles, FPS support, and immersive voiceovers. | C#, Vosk, VoiceAttack, Audio Processing | [GitHub](https://github.com/OleksandrY-Portfolio/-L.I.A.-Personal-Voice-Assistant-in-the-Universe-of-Star-Citizen) |
 
 ---
 
